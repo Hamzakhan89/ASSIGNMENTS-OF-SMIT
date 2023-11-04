@@ -1,0 +1,18 @@
+/* .nav-list ul{
+    list-style: none;
+    display: flex
+    ;
+
+} */
+h1{
+    padding: 20px;
+}
+ul{
+
+    list-style: none;
+
+ display: flex;
+ justify-content: space-between;
+ text-align: center;
+ padding: 20px 10%;
+}
